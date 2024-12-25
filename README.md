@@ -1,17 +1,8 @@
-# flutter_application_1
+# flutter app with dorwer 
 
-A new Flutter project.
+Its just a template enjoy ❤👌
 
-## Getting Started
+## Contact
+If you have any questions or want to collaborate, feel free to [email me](mailto:fyacdhan@gmail.com)!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/user-attachments/assets/14afe362-5077-4d3c-b57e-f2dbd25f7eb6)
